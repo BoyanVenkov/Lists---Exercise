@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. House Party", "2. House 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. List Operations", "3. List Operations\3. List Operations.csproj", "{DD39817F-666C-4515-A3B9-BD9470E6E913}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. List Manipulation Basics", "4. List Manipulation Basics\4. List Manipulation Basics.csproj", "{AEABEDF7-6522-4CEE-AE4F-09702AA441EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD39817F-666C-4515-A3B9-BD9470E6E913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD39817F-666C-4515-A3B9-BD9470E6E913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD39817F-666C-4515-A3B9-BD9470E6E913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEABEDF7-6522-4CEE-AE4F-09702AA441EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEABEDF7-6522-4CEE-AE4F-09702AA441EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEABEDF7-6522-4CEE-AE4F-09702AA441EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEABEDF7-6522-4CEE-AE4F-09702AA441EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
